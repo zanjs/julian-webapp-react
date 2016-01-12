@@ -1,4 +1,4 @@
-# Isomorphic/Universal React Web App
+# julian  React Web App
 
 Shared JavaScript Web Application that runs on both the client & server using React and Node/Express.
 
