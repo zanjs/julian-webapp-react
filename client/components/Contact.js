@@ -6,7 +6,7 @@ class Contact extends React.Component {
         return (
             <div>
                 <div className="lets-talk">
-                  
+                  my name is julian
                 </div>
 
                 <div className="github">
