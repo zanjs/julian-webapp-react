@@ -1,5 +1,7 @@
 # julian  React Web App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/julian-webapp-react.svg)](https://greenkeeper.io/)
+
 Shared JavaScript Web Application that runs on both the client & server using React and Node/Express.
 
 ## Features
